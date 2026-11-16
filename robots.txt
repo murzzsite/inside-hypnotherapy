@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /inside-hypnotherapy/materials.html
+Disallow: /inside-hypnotherapy/scripts.html
+Disallow: /inside-hypnotherapy/presentation.html
+Disallow: /inside-hypnotherapy/outreach.html
+Sitemap: https://murzzsite.github.io/inside-hypnotherapy/sitemap.xml
